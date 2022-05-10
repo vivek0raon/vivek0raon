@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rollfornew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rollfornew" height="30" width="40" /></a>
-<a href="https://instagram.com/vivekkkujur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekkkujur" height="30" width="40" /></a>
 <a href="https://dribbble.com/vivek_oraon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vivek_oraon" height="30" width="40" /></a>
 <a href="https://t.me/My_name_is_vivek" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="my_name_is_vivek" height="30" width="40" /></a>
 </p>
