@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **vivekoraon4321@gmail.com**
+- 📫 How to reach me **contact@spareme.eu.org**
 
 - ⚡ Fun fact **You are curently watching my profile**
 
