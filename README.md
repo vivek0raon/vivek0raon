@@ -41,7 +41,7 @@
 <br/>
 
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivek0raon)](https://github.com/vivek0raon)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivek0raon&theme=react-dark)](https://github.com/vivek0raon)
 
 
 <br/>
